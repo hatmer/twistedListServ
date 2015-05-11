@@ -9,6 +9,3 @@ Register the listserve with the organization that manages the email account.
 Specify target.
 
 Interact with listserve using Telnet or the custom client.
-
-
-Still a work in progress.
