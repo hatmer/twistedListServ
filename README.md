@@ -1,5 +1,5 @@
 # twistedListServ
-Listserv is to a twistedListserv like spaghetti is to a mouthful of toilet paper
+Listserv is to a twistedListserv like spaghetti is to a mouthful of toilet paper.
 
 Listserv POC. Send an email to a target to decieve him/her into believing that
 he/she is part of a mailing list.
