@@ -126,7 +126,7 @@ class Listserv(LineReceiver):
 class ListservFactory(Factory):
 
     def __init__(self):
-        self.users = {} # maps user names to Chat instances
+        self.users = {} 
 
     def buildProtocol(self, addr):
         return Listserv(self.users)
