@@ -1,7 +1,6 @@
 # twistedListServ
 
-Listserv simulator POC. Send an email to a target to decieve him/her into believing that
-he/she is part of a mailing list.
+Listserv simulator POC.
 
 1. Register the listserve with the organization that manages the email account.
 
